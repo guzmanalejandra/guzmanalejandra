@@ -8,6 +8,6 @@
 - 🤔 I’m looking for help with expand my Knowledge in Technology.
 - 💬 Ask me about ... Soft Skills.
 - 📫 How to reach me:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I enjoy watching anime on my free time, also I am learning Italian, beisdes that I can speaK english and Spanish.
 -->
