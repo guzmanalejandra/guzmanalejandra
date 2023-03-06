@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on open Source.
 - 🤔 I’m looking for help with expand my Knowledge in Technology.
 - 💬 Ask me about ... Soft Skills.
-- 📫 How to reach me:
+- 📫 How to reach me: guzmandominguez.ale@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy watching anime on my free time, also I am learning Italian, beisdes that I can speaK english and Spanish.
 -->
