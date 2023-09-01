@@ -13,7 +13,7 @@
 
 ## 📈 Estadísticas de GitHub
 
-| ![Alejandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=guzmanalejandra&show_icons=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guzmanalejandralayout=compact) |
+| ![Alejandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=guzmanalejandra&show_icons=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guzmanalejandra&layout=compact) |
 |---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 
 ## 📞 Contáctame
