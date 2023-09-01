@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GIF](https://tenor.com/es-419/view/cute-aesthetic-plants-wither-grow-gif-12618085)
+![GIF](https://media.tenor.com/FiyM4V27FQAAAAAC/cute-aesthetic.gif)
 
 - 🔭 I’m currently a Student at Universidad del Valle de Guatemala.
 - 🌱 I’m currently learning Ethical Hacking.
