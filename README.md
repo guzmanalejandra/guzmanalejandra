@@ -11,8 +11,13 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy watching anime on my free time, also I am learning Italian, besides that I can speak English and Spanish.
 
-![Alejandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=guzmanalejandra&show_icons=true&count_private=true)
+## 📈 Estadísticas de GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guzmanalejandra&layout=compact)
+| ![Alejandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=guzmanalejandra&show_icons=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guzmanalejandralayout=compact) |
+|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+
+## 📞 Contáctame
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucia-alejandra-guzman-dominguez-a9a359257)
+
+> "Never Giving Up Is My Magic."
