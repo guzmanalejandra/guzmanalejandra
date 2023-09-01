@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GIF](https://media.tenor.com/FiyM4V27FQAAAAAC/cute-aesthetic.gif)
+![GIF](https://media.giphy.com/media/gi84IkFRzwube/giphy.gif)
 
 - 🔭 I’m currently a Student at Universidad del Valle de Guatemala.
 - 🌱 I’m currently learning Ethical Hacking.
