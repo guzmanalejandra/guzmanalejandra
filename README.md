@@ -19,8 +19,15 @@ I am a dedicated student at **Universidad del Valle de Guatemala** with experien
 
 ## 📊 GitHub Statistics
 
-| ![Alejandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=guzmanalejandra&show_icons=true&count_private=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guzmanalejandra&layout=compact&theme=radical) |
+| ![Alejandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guzmanalejandra&show_icons=true&count_private=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guzmanalejandra&layout=compact&theme=radical) |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+
+---
+
+## 🟢 Contribution Activity
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=guzmanalejandra&theme=radical&hide_border=true&area=true)
+
 
 ---
 
