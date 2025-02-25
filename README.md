@@ -26,7 +26,8 @@ I am a dedicated student at **Universidad del Valle de Guatemala** with experien
 
 ## 🟢 Contribution Activity
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=guzmanalejandra&theme=radical&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=guzmanalejandra&theme=radical&hide_border=true&area=true)
+
 
 
 ---
