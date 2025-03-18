@@ -2,16 +2,16 @@
 
 ![GIF](https://media.giphy.com/media/gi84IkFRzwube/giphy.gif)
 
-I am a dedicated student at **Universidad del Valle de Guatemala** with experience as a **Data Analyst** and in **Python automation**. Passionate about **ethical hacking**, **open-source collaboration**, and continuous learning, I thrive on challenges and am always eager to expand my knowledge in technology and cybersecurity.
+I am a dedicated student at Universidad del Valle de Guatemala specializing in Business Analysis and Data Science. With a robust background in data analytics and Python automation, I transform complex datasets into actionable insights that drive strategic decision-making. Passionate about leveraging data to solve business challenges, I excel in uncovering trends and optimizing processes through innovative solutions.
 
 ---
 
 ## 🛠️ Skills & Interests
 - 📊 **Data Analysis:** Hands-on experience with data manipulation, visualization, and interpretation.  
 - 🐍 **Python Automation:** Developing scripts to automate repetitive tasks and improve workflows.  
-- 🔒 Currently studying **Ethical Hacking** and cybersecurity best practices.  
+- 📈 Data Visualization: Turning raw data into compelling visual narratives that support clear communication.
 - 🌱 Learning **Italian**, fluent in **English** and **Spanish**.  
-- 🤝 Actively seeking to **collaborate on open-source projects**.  
+- 🤝 ACollaborative mindset with experience in cross-functional teams and open-source projects.
 - 📺 Anime enthusiast during my free time.  
 - 📚 Passionate about lifelong learning and exploring new technologies.  
 
